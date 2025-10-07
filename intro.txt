@@ -1,0 +1,13 @@
+Giới thiệu cá nhân:
+Tôi tên Nguyễn Phú Quang, hiện là sinh viên năm 4 ngành công nghệ thông tin
+Tôi thích học hòi và tìm tòi những thứ mới lạ
+Tôi thích làm việc nhóm và học hỏi mọi người
+Sở thích:
+Tôi thích bóng đá
+Tôi thích chơi game
+Tôi thích nghe nhạc
+Kỹ năng:
+Sử dụng Git và Github cơ bản
+Sử dụng Phython và C++
+Khả năng giao tiếp tốt
+
